@@ -13,6 +13,7 @@ import CoreData
 class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate {
     
     //This is a test
+    // this is another test 
 
     @IBOutlet var mapView: MKMapView!
     @IBOutlet var nameText: UITextField!
