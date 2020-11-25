@@ -11,6 +11,8 @@ import CoreLocation
 import CoreData
 
 class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate {
+    
+    //This is a test
 
     @IBOutlet var mapView: MKMapView!
     @IBOutlet var nameText: UITextField!
